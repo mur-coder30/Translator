@@ -1,0 +1,6 @@
+{
+  "name": "LingoCode — Universal & Code Translator",
+  "description": "Multimodal translator for 100+ natural languages and computer languages (C++, Python, Rust, Assembly, Binary). Auto-detects language from text or photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
